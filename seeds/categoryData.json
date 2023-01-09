@@ -1,0 +1,26 @@
+[
+    {
+        "categoryName": "Uncategorized", 
+        "userEditable": false,
+        "color": "#8D8896",
+        "lists": []
+    },
+    {
+        "categoryName": "Shopping Lists", 
+        "color": "#ff0000",
+        "userEditable": true,
+        "lists": []
+    },
+    {
+        "categoryName": "To-Do Lists", 
+        "color": "#1500ff",
+        "userEditable": true,
+        "lists": []
+    },
+    {
+        "categoryName": "My Favorites", 
+        "color": "#00ff04",
+        "userEditable": true,
+        "lists": []
+    }
+]

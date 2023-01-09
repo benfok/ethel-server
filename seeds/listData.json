@@ -1,0 +1,162 @@
+[
+    {
+        "listName": "Groceries",
+        "items": [
+            {
+                "itemText": "Bread",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "Earl Grey Tea",
+                "completed": true,
+                "deleted": false
+            },
+            {
+                "itemText": "Blueberry Pie",
+                "completed": false,
+                "deleted": true
+            },
+            {
+                "itemText": "Biscuits",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "Spinach (watching my figure!)",
+                "completed": true,
+                "deleted": false
+            },
+            {
+                "itemText": "Cookies for my darling grandchildren",
+                "completed": true,
+                "deleted": false
+            },
+            {
+                "itemText": "Cat Food",
+                "completed": false,
+                "deleted": true
+            }
+        ]
+    },
+    {
+        "listName": "XMas Gifts for Grandson",
+        "items": [
+            {
+                "itemText": "Toy train set",
+                "completed": false,
+                "deleted": true
+            },
+            {
+                "itemText": "Tickel Me Elmo",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "Bunny Rabbit Pajamas",
+                "completed": true,
+                "deleted": false
+            },
+            {
+                "itemText": "Animal Crossing",
+                "completed": false,
+                "deleted": false
+            }
+        ]
+    },
+    {
+        "listName": "Xmas Gifts for Granddaughter",
+        "items": [
+            {
+                "itemText": "Software Engineer Barbie",
+                "completed": true,
+                "deleted": false
+            },
+            {
+                "itemText": "Minecraft",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "Jenga",
+                "completed": true,
+                "deleted": false
+            },
+            {
+                "itemText": "Play-dough",
+                "completed": false,
+                "deleted": true
+            }
+        ]
+    },
+    {
+        "listName": "Monday's To-Do List",
+        "items": [
+            {
+                "itemText": "Hit the gym!",
+                "completed": true,
+                "deleted": false
+            },
+            {
+                "itemText": "Help my fans get organized",
+                "completed": true,
+                "deleted": false
+            },
+            {
+                "itemText": "Bake my famous blueberry pie",
+                "completed": false,
+                "deleted": true
+            },
+            {
+                "itemText": "Feed Mr. Whiskerson",
+                "completed": false,
+                "deleted": false
+            }
+        ]
+    },
+    {
+        "listName": "My Favorite Movies",
+        "items": [
+            {
+                "itemText": "The Wizard of Oz",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "The Sound of Music",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "Gone With The Wind",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "50 Shades of Grey",
+                "completed": true,
+                "deleted": false
+            }
+        ]
+    }, 
+    {
+        "listName": "My Favorite Books",
+        "items": [
+            {
+                "itemText": "Eat Pray Love",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "Knitting Made Easy",
+                "completed": false,
+                "deleted": false
+            },
+            {
+                "itemText": "Brewing Moonshine for Dummies",
+                "completed": true,
+                "deleted": false
+            }
+        ]
+    }
+]
